@@ -1,0 +1,52 @@
+# Geotechnical Engineering1 — Wellington
+
+> Geotechnical engineering services in Wellington, New Zealand.
+
+## Services
+- [Anchors](https://wellington.geotechnical-engineering1.co/anchors/)
+- [Atterberg Limits](https://wellington.geotechnical-engineering1.co/atterberg-limits/)
+- [Cbr Road](https://wellington.geotechnical-engineering1.co/cbr-road/)
+- [Cpt Test](https://wellington.geotechnical-engineering1.co/cpt-test/)
+- [Deep Excavations](https://wellington.geotechnical-engineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://wellington.geotechnical-engineering1.co/excavation-monitoring/)
+- [Excavations](https://wellington.geotechnical-engineering1.co/excavations/)
+- [Flexible Pavement](https://wellington.geotechnical-engineering1.co/flexible-pavement/)
+- [Footings](https://wellington.geotechnical-engineering1.co/footings/)
+- [Foundations](https://wellington.geotechnical-engineering1.co/foundations/)
+- [Geophysics](https://wellington.geotechnical-engineering1.co/geophysics/)
+- [Grain Size](https://wellington.geotechnical-engineering1.co/grain-size/)
+- [Ground Improvement](https://wellington.geotechnical-engineering1.co/ground-improvement/)
+- [Grouting](https://wellington.geotechnical-engineering1.co/grouting/)
+- [In Situ Permeability](https://wellington.geotechnical-engineering1.co/in-situ-permeability/)
+- [Investigation](https://wellington.geotechnical-engineering1.co/investigation/)
+- [Lab In Situ](https://wellington.geotechnical-engineering1.co/lab-in-situ/)
+- [Laboratory](https://wellington.geotechnical-engineering1.co/laboratory/)
+- [Liquefaction](https://wellington.geotechnical-engineering1.co/liquefaction/)
+- [Masw](https://wellington.geotechnical-engineering1.co/masw/)
+- [Mat Foundations](https://wellington.geotechnical-engineering1.co/mat-foundations/)
+- [Piles](https://wellington.geotechnical-engineering1.co/piles/)
+- [Plate Load Test](https://wellington.geotechnical-engineering1.co/plate-load-test/)
+- [Resistivity](https://wellington.geotechnical-engineering1.co/resistivity/)
+- [Retaining Walls](https://wellington.geotechnical-engineering1.co/retaining-walls/)
+- [Rigid Pavement](https://wellington.geotechnical-engineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://wellington.geotechnical-engineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://wellington.geotechnical-engineering1.co/sand-cone-density/)
+- [Seismic](https://wellington.geotechnical-engineering1.co/seismic/)
+- [Seismic Isolation](https://wellington.geotechnical-engineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://wellington.geotechnical-engineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://wellington.geotechnical-engineering1.co/seismic-refraction/)
+- [Slope Stability](https://wellington.geotechnical-engineering1.co/slope-stability/)
+- [Slopes](https://wellington.geotechnical-engineering1.co/slopes/)
+- [Soft Ground Tunnels](https://wellington.geotechnical-engineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://wellington.geotechnical-engineering1.co/spt-drilling/)
+- [Stone Columns](https://wellington.geotechnical-engineering1.co/stone-columns/)
+- [Test Pits](https://wellington.geotechnical-engineering1.co/test-pits/)
+- [Triaxial](https://wellington.geotechnical-engineering1.co/triaxial/)
+- [Vibrocompaction](https://wellington.geotechnical-engineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://wellington.geotechnical-engineering1.co/
+
+## About
+This site provides geotechnical engineering services in Wellington, New Zealand.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
